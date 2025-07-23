@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tobigray
-- 👀 I’m interested in front-end development with emphasis on HTML 5, CSS 3, and React Javascrippt Framework.
-- 🌱 I’m currently learning React JavaScript.
-- 💞️ I’m looking to collaborate on open-source projects and participate in remote Front-end development internships ...
+- 👋 Hi, I am @Tobigray
+- 👀 I am a prospective graduate school applicant interested in Chemical Engineering & Materials Science calculations using High Throughput Computational Methods
+- 🌱 I am currently learning Pymatgen, with API's such as Materials Project
+- 💞️ I’m looking to collaborate on open-source research projects concerning materials for polymers & battery synthesis
 - 📫 How to reach me;Twitter: _tobigray ...
 
 <!---
