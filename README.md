@@ -1,7 +1,7 @@
 - 👋 Hi, I am @Tobigray
 - 👀 I am a prospective graduate school applicant interested in Chemical Engineering & Materials Science calculations using High Throughput Computational Methods
 - 🌱 I am currently learning Pymatgen, with API's such as Materials Project
-- 💞️ I’m looking to collaborate on open-source research projects concerning materials for polymers & battery synthesis
+- 💞️ I am looking to collaborate on open-source research projects concerning materials for polymers & battery synthesis
 - 📫 How to reach me;Twitter: _tobigray ...
 
 <!---
